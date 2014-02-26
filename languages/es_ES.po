@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hot Topix 1.10\n"
+"POT-Creation-Date: 2014-01-20 20:25-0500\n"
+"PO-Revision-Date: 2014-02-20 16:37-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <mvpthemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_n;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Error"
+msgstr "Error"
+
+#: 404.php:12
+msgid "The page you requested does not exist or has moved."
+msgstr "La páginas solicitada no existe o ha sido movida"
+
+#: archive.php:6 author.php:6
+msgid "All posts tagged"
+msgstr "Noticias de"
+
+#: archive.php:7 author.php:7
+msgid "All posts by"
+msgstr "Todas las entradas de"
+
+#: archive.php:34 archive.php:40 author.php:44 author.php:50 category.php:23
+#: category.php:85 category.php:91 index.php:21 index.php:102
+#: page-latest.php:45 search.php:30 search.php:36 single.php:13
+#: widgets/widget-catdark.php:58
+msgid "By"
+msgstr "Por"
+
+#: archive.php:34 archive.php:40 author.php:44 author.php:50 category.php:85
+#: category.php:91 index.php:102 page-latest.php:45 search.php:30
+#: search.php:36 single.php:13
+msgid "on"
+msgstr "En"
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta entrada está protegida por contraseña, ingresa la contraseña para ver "
+"los comentarios"
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: comments.php:24 comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Antiguos "
+
+#: comments.php:25 comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios nuevos &rarr;"
+
+#: comments.php:50
+msgid "You must be logged in to post a comment"
+msgstr "Usted debe estar logueado para escribir un comentario"
+
+#: comments.php:52
+msgid "Login"
+msgstr "Ingresar"
+
+#: comments.php:61 comments.php:62
+msgid "Leave a Reply"
+msgstr "Dejar respuesta"
+
+#: functions.php:252
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: functions.php:253
+msgid "Secondary Menu"
+msgstr "Menú Secundario"
+
+#: functions.php:254
+msgid "Footer Menu"
+msgstr "Menú al Pie"
+
+#: functions.php:378
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:480
+msgid "Page"
+msgstr "Página"
+
+#: functions.php:551
+msgid "Enter your video or audio embed code."
+msgstr "Ingrese su video o código de inserción de audio."
+
+#: functions.php:566
+msgid ""
+"Add a custom featured headline that will be displayed in the featured slider."
+msgstr "Añadir un titular personalizado que se muestra en el Slider."
+
+#: functions.php:579
+msgid ""
+"Select to show or hide the featured image from automatically displaying in "
+"this post."
+msgstr ""
+"Seleccionar para mostrar u ocultar la imagen Destacada que se muestren "
+"automáticamente en este post."
+
+#: functions.php:753
+#, php-format
+msgid "%s "
+msgstr "%s "
+
+#: functions.php:756
+msgid "at"
+msgstr "a"
+
+#: functions.php:757 functions.php:783
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:765
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está pendiente de moderación"
+
+#: functions.php:783
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:838
+msgid "You may also like..."
+msgstr "También te puede interesar ..."
+
+#: header.php:113
+msgid "Menu"
+msgstr "Menu"
+
+#: index.php:63
+msgid "Don't Miss"
+msgstr "No Te Lo Pierdas"
+
+#: search.php:4
+msgid "Search results for"
+msgstr "Resultados de busqueda para"
+
+#: search.php:42
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hay nada que coincidan con tu criterio de búsqueda. Por "
+"favor, inténtelo de nuevo con algunas palabras clave diferentes."
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Buscar"
+
+#: single.php:63
+msgid "Related Items"
+msgstr "Tags"
+
+#: single.php:88
+msgid "Previous Story"
+msgstr "Entrada enterior"
+
+#: single.php:91
+msgid "Next Story"
+msgstr "Siguiente entrada"
+
+#: admin/theme-settings.php:39
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: admin/theme-settings.php:42
+msgid "Logo"
+msgstr "Logotipo"
+
+#: admin/theme-settings.php:43
+msgid "Select a file to appear as the logo for your site."
+msgstr "Seleccione un archivo para que aparezca como el logotipo de su sitio."
+
+#: admin/theme-settings.php:48
+msgid "Logo Height"
+msgstr "Peso del logotipo"
+
+#: admin/theme-settings.php:54
+msgid "Custom Favicon"
+msgstr "Favicon Personalizado"
+
+#: admin/theme-settings.php:55
+msgid ""
+"Upload a 16x16px PNG/GIF image that will represent your website's favicon."
+msgstr ""
+"Subir una imagen 16x16px PNG / GIF que representará el favicon de su sitio "
+"web."
+
+#: admin/theme-settings.php:61
+msgid "Tracking Code"
+msgstr "codigo de rastreo"
+
+#: admin/theme-settings.php:67
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: admin/theme-settings.php:73
+msgid "Toggle Responsiveness"
+msgstr "Cambio de Responsivo"
+
+#: admin/theme-settings.php:81
+msgid "Color Settings"
+msgstr "Configuración de color"
+
+#: admin/theme-settings.php:84
+msgid "Primary Theme Color"
+msgstr "Color primario de tema"
+
+#: admin/theme-settings.php:85
+msgid "Primary color for the site."
+msgstr "colro primario para el sitio"
+
+#: admin/theme-settings.php:90
+msgid "Main Menu Background Color"
+msgstr "Color de  fondo de Menú Principal"
+
+#: admin/theme-settings.php:91
+msgid "The background color of the main menu."
+msgstr "el fondo Color del menu principal"
+
+#: admin/theme-settings.php:96
+msgid "Primary Link Color"
+msgstr "Color del enlace primario"
+
+#: admin/theme-settings.php:97
+msgid "Primary link color for the site."
+msgstr "color del sitio del enalce primario"
+
+#: admin/theme-settings.php:103
+msgid "Font Settings"
+msgstr "Configuración de fuente"
+
+#: admin/theme-settings.php:106
+msgid "Main Menu Font"
+msgstr "Fuente del Menú principal"
+
+#: admin/theme-settings.php:107
+msgid "Select the font for the main menu."
+msgstr "Seleccionar la fuente del Menú principal"
+
+#: admin/theme-settings.php:113
+msgid "Featured Posts Font"
+msgstr "Fuente de al entrada destacada."
+
+#: admin/theme-settings.php:114
+msgid ""
+"Select the font for the Featured Posts section on the homepage and category "
+"pages."
+msgstr ""
+"Seleccione la fuente para la sección de Noticias destacados en las páginas "
+"principal y categoría."
+
+#: admin/theme-settings.php:120
+msgid "General Headline Font"
+msgstr "Fuente de Linea principal"
+
+#: admin/theme-settings.php:121
+msgid ""
+"Select the font for the general headline font used in widgets, archive pages "
+"and page/post titles."
+msgstr ""
+"Seleccione la fuente para el título general que se utiliza en los widgets, "
+"páginas de archivo y los títulos de la página / post."
+
+#: admin/theme-settings.php:129
+msgid "Homepage Settings"
+msgstr "configuración de página principal"
+
+#: admin/theme-settings.php:132
+msgid "Homepage Layout"
+msgstr "Orden de página principal"
+
+#: admin/theme-settings.php:133
+msgid "Select your homepage layout."
+msgstr "Seleccione el orden de su página principal"
+
+#: admin/theme-settings.php:139
+msgid "Homepage Featured Posts Tag Slug"
+msgstr "Destacados de página principal etiqueta y ruta"
+
+#: admin/theme-settings.php:140
+msgid ""
+"Posts with tags in this field will show up in the featured area on the "
+"homepage."
+msgstr ""
+"Mensajes con etiquetas en este campo se mostrará en el área de las funciones "
+"de la página principal."
+
+#: admin/theme-settings.php:147
+msgid "News Ticker Settings"
+msgstr "Ajustes de Stickers"
+
+#: admin/theme-settings.php:150
+msgid "News Ticker Tag Slug"
+msgstr "nuewvo sticker, etiqueta ruta"
+
+#: admin/theme-settings.php:151
+msgid "Posts with tags in this field will show up in the News Ticker."
+msgstr ""
+"Mensajes con etiquetas en este campo se mostrará en las noticias de Ticker."
+
+#: admin/theme-settings.php:157
+msgid "Maximum News Ticker Items"
+msgstr "items máximos de noticias Ticker"
+
+#: admin/theme-settings.php:165
+msgid "Article Settings"
+msgstr "configuración de Artículos"
+
+#: admin/theme-settings.php:168
+msgid "Show Featured Image In Posts?"
+msgstr "Mostrar imágenes destacada en el post?"
+
+#: admin/theme-settings.php:169
+msgid ""
+"Uncheck this box if you would like to remove the featured image thumbnail "
+"from all posts."
+msgstr ""
+"Desmarque esta casilla si desea eliminar la miniatura de la imagen ofrecida "
+"por todos los mensajes."
+
+#: admin/theme-settings.php:174
+msgid "Show Social Sharing Buttons?"
+msgstr "Mostrar botones de redes sociales"
+
+#: admin/theme-settings.php:180
+msgid "Show Author Info?"
+msgstr "Mostrar Información del Autor"
+
+#: admin/theme-settings.php:186
+msgid "Show Previous/Next Post Links?"
+msgstr "Mostrar Anterior/Siguiente Enlace?"
+
+#: admin/theme-settings.php:194
+msgid "Social Media Settings"
+msgstr "Configuración de Redes Sociales"
+
+#: admin/theme-settings.php:197 admin/theme-settings.php:256
+msgid "Attention"
+msgstr "Atención"
+
+#: admin/theme-settings.php:203
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/theme-settings.php:209
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/theme-settings.php:215
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/theme-settings.php:221
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/theme-settings.php:227
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/theme-settings.php:233
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/theme-settings.php:239
+msgid "Youtube"
+msgstr "Youtube"
+
+#: admin/theme-settings.php:245
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: admin/theme-settings.php:253
+msgid "Ad Management"
+msgstr "Gestión de publicidad"
+
+#: admin/theme-settings.php:262
+msgid "Leaderboard Ad Location"
+msgstr "Localizacion de anuncio de clasificación"
+
+#: admin/theme-settings.php:263
+msgid ""
+"Select whether to display your leaderboard ad above your logo or to the "
+"right of the logo."
+msgstr ""
+"Seleccione si desea mostrar su anuncio de clasificación por encima de su "
+"logotipo o a la derecha del logo."
+
+#: admin/theme-settings.php:269
+msgid "Leaderboard Ad Code"
+msgstr "Código de anuncio de clasificación"
+
+#: admin/theme-settings.php:275
+msgid "320x50 Mobile Ad Code"
+msgstr "320x50 Código de anuncio móvil"
+
+#: admin/theme-settings.php:281
+msgid "Wallpaper Ad Image URL"
+msgstr "URL de la Imagen de fondo del anuncio"
+
+#: admin/theme-settings.php:287
+msgid "Wallpaper Ad URL"
+msgstr "Imagen de fondo del Anuncio"
+
+#: admin/theme-settings.php:295
+msgid "Footer Info"
+msgstr "Informacion del Footer"
+
+#: admin/theme-settings.php:298
+msgid "Copyright Text"
+msgstr "Texto Copyright "
+
+#: widgets/widget-ad.php:19
+msgid "A widget that displays an ad of any size."
+msgstr "Un widget que muestra un anuncio de cualquier tamaño."
+
+#: widgets/widget-ad.php:25
+msgid "Hot Topix: Ad Widget"
+msgstr "Hot Topix: Anuncio Widget"
+
+#: widgets/widget-ad.php:43
+msgid "Advertisement"
+msgstr "Anuncio"
+
+#: widgets/widget-carousel.php:19
+msgid ""
+"A widget designed for the Homepage Widget Area that displays a carousel with "
+"posts of your choice."
+msgstr ""
+"Un widget diseñado para el área de Widget de presentación que muestra un "
+"carrusel con las entradas de su elección."
+
+#: widgets/widget-carousel.php:25
+msgid "Hot Topix: Carousel Widget"
+msgstr "Hot Topix: Carousel Widget"
+
+#: widgets/widget-catdark.php:19 widgets/widget-catlight.php:19
+msgid "A widget that displays a list of posts from a category of your choice."
+msgstr ""
+"Un widget que muestra una lista de las entradas de una categoría de su "
+"elección."
+
+#: widgets/widget-catdark.php:25
+msgid "Hot Topix: Category Dark Widget"
+msgstr "Hot Topix: Category Dark Widget"
+
+#: widgets/widget-catlight-links.php:19
+msgid ""
+"A widget that displays one featured post and a list of links below from a "
+"category of your choice."
+msgstr ""
+"Un widget que muestra un puesto destacado y una lista de enlaces de una "
+"categoría de su elección."
+
+#: widgets/widget-catlight-links.php:25
+msgid "Hot Topix: Cat Light w/Links Widget"
+msgstr "Hot Topix: Cat Light w/Links Widget"
+
+#: widgets/widget-catlight.php:25
+msgid "Hot Topix: Category Light Widget"
+msgstr "Hot Topix: Category Light Widget"
+
+#: widgets/widget-catlinks.php:19
+msgid "A widget that displays a list of links from a category of your choice."
+msgstr ""
+"Un widget que muestra una lista de enlaces de una categoría de su elección."
+
+#: widgets/widget-catlinks.php:25
+msgid "Hot Topix: Category Links Widget"
+msgstr "Hot Topix: Category Links Widget"
+
+#: widgets/widget-facebook.php:19
+msgid "A widget that displays a Facebook Like Box."
+msgstr "Un widget que muestra un cuadro de Me gusta de Facebook."
+
+#: widgets/widget-facebook.php:25
+msgid "Hot Topix: Facebook Widget"
+msgstr "Hot Topix: Facebook Widget"
+
+#: widgets/widget-middlebuzz.php:19
+msgid ""
+"A widget designed for the Homepage Middle Widget Area that displays a list "
+"of posts from a category of your choice."
+msgstr ""
+"Un widget diseñado para el área de Widget media página que muestra una lista "
+"de las entradas de una categoría de su elección."
+
+#: widgets/widget-middlebuzz.php:25
+msgid "Hot Topix: Middle Buzz Widget"
+msgstr "Hot Topix: Middle Buzz Widget"
+
+#: widgets/widget-tabs.php:19
+msgid ""
+"A tabber widget that displays recent headlines, popular posts and recent "
+"comments."
+msgstr ""
+"Un widget tabber que muestra los recientes titulares, entradas populares y "
+"comentarios recientes ."
+
+#: widgets/widget-tabs.php:25
+msgid "Hot Topix: Tabs Widget"
+msgstr "Hot Topix: Tabs Widget"
+
+#: widgets/widget-tabs.php:51
+msgid "Popular"
+msgstr "Popular"
+
+#: widgets/widget-tabs.php:53
+msgid "Comments"
+msgstr "Comentarios"
+
+#: widgets/widget-tabs.php:112
+msgid "says"
+msgstr "dice"
+
+#: widgets/widget-tags.php:19
+msgid "A custom Tag Cloud widget."
+msgstr "Un widget personalizado para una Nube de Etiquetas."
+
+#: widgets/widget-tags.php:25
+msgid "Hot Topix: Tags Widget"
+msgstr "Hot Topix: Tags Widget"
